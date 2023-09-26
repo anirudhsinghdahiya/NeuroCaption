@@ -42,9 +42,6 @@ pip install -r requirements.txt
 1. To train the model, simply run:
 python train.py
 
-vbnet
-Copy code
-
 2. If you want to infer using a pre-trained model, ensure you've loaded the model and then use appropriate methods for inference.
 
 ## Results
