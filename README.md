@@ -51,7 +51,8 @@ Copy code
 
 After training for several epochs on the Flickr8k dataset, our model was able to produce remarkable captions for various images. Here's an example result:
 
-![Result Image](path_to_result_image.png)
+<img width="1851" alt="Result_trained" src="https://github.com/anirudhsinghdahiya/NeuroCaption/assets/141967103/c5c627fb-90a2-4034-9fc1-73f8faf64895">
+
 
 ## Contributing
 
