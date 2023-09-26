@@ -2,7 +2,8 @@
 
 NeuroCaption provides a comprehensive toolkit for training and deploying deep learning models tailored for the image captioning task on the Flickr8k dataset.
 
-![Project Idea]([path_to_idea_image.png](https://github.com/anirudhsinghdahiya/NeuroCaption/blob/main/NeuroCaption_idea.png))
+<img width="1851" alt="NeuroCaption_idea" src="https://github.com/anirudhsinghdahiya/NeuroCaption/assets/141967103/e325a7cd-0103-4e5c-a717-4faa3a352e42">
+
 
 ## Overview
 
